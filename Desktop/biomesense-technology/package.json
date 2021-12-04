@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prettier": "^2.5.0",
+    "sass": "^1.44.0"
+  },
+  "name": "biomesense-technology",
+  "version": "1.0.0",
+  "description": "Aplico mis habilidades de SCSS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Chan",
+  "license": "ISC"
+}
